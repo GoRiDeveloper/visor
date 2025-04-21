@@ -1,0 +1,12 @@
+<nav aria-label="breadcrumbList" class="m-auto w-10">
+  <div class="breadcrumbList flex w-full overflow-hidden overflow-x-scroll align-items-center p-3">
+    <div class="breadcrumbList-item">
+      <a class="bi bi-house-fill fs-4"></a>
+    </div>
+    @for (item of routesData; track item.id) {
+      <div class="breadcrumbList-item">
+        <a>{{item.name}}</a>
+      </div>
+    }
+  </div>
+</nav>
