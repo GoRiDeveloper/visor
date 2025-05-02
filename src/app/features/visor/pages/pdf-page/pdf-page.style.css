@@ -1,0 +1,22 @@
+.pathDialog {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    gap: 2rem;
+    align-items: center;
+    order: 2;
+    width: 100%;
+    margin-bottom: 2px;
+    background-color: transparent;
+    padding: 10px 0;
+    opacity: 0.1;
+    justify-content: space-between;
+    transition: 0.5s;
+    z-index: 1;
+}
+
+.pathDialog:hover {
+    opacity: 1;
+}

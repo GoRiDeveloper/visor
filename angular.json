@@ -22,11 +22,16 @@
             "tsConfig": "tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              {
+                "glob": "**/*",
+                "input": "node_modules/ngx-extended-pdf-viewer/assets/",
+                "output": "/assets/"
+              }
             ],
             "styles": [
               "node_modules/primeflex/primeflex.css",
-              "node_modules/primeng/resources/primeng.min.css",  
+              "node_modules/primeng/resources/primeng.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -93,5 +98,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "9f42af34-cfb9-4374-b56d-9ed6aa8181a6"
   }
 }

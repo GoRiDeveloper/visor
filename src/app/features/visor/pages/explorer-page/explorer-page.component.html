@@ -1,10 +1,10 @@
 <div class="fixed w-10 top-0 left-0 right-0 m-auto flex justify-content-center align-items-start flex-nowrap gap-0 flex-column z-5" style="padding: 100px 50px;">
     <div class="m-auto w-10 p-3">
-        <app-breadcrumb></app-breadcrumb>
+        <app-breadcrumb [routes]="pathData"></app-breadcrumb>
     </div>
     <div class="overflow-y-scroll lg:w-full lg:m-0 lg:h-auto" style="max-height: 60vh">
         @for (item of data; track item.id) {
-            <div class="files">
+            <div class="files" (click)="selectItem(item.id, item.type)">
                 <div class="files__container">
                     <img [src]="getIcon(item.type)" />
                     <p>{{item.name}}</p>

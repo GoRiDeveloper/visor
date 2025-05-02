@@ -1,13 +1,29 @@
-import { Component, OnInit } from "@angular/core";
+import { Component, OnInit, ChangeDetectionStrategy } from "@angular/core";
+import { NgxExtendedPdfViewerModule, NgxExtendedPdfViewerService, pdfDefaultOptions } from 'ngx-extended-pdf-viewer';
+
+import { StateService } from "../../services";
+import { BreadcrumbComponent } from "../../../../shared/components/breadcrumb/breadcrumb.component";
 
 @Component({
     selector: "app-pdf-page",
     templateUrl: "./pdf-page.component.html",
+    styleUrl: "./pdf-page.style.css",
     standalone: true,
-    imports: []
+    imports: [NgxExtendedPdfViewerModule, BreadcrumbComponent],
+    providers: [NgxExtendedPdfViewerService],
+    changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class PdfPageComponent implements OnInit {
-    constructor() {}
+    public pathData: { id: string; name: string; path: string; }[] = [];
 
-    ngOnInit() {}
+    constructor(private _stateService: StateService) {}
+
+    ngOnInit() {
+        document.body.classList.add("border-background");
+        this.pathData = this._stateService.getState().paths;
+    }
+
+    ngOnDestroy() {
+        document.body.classList.remove("border-background");
+    }
 }

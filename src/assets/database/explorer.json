@@ -1,0 +1,901 @@
+[
+    {
+        "path": true,
+        "main_pathname": "C://Escritorio//IPAB//Documentos"
+    },
+    {
+        "id": "kjaxnjcd9889",
+        "name": "Accendo",
+        "type": "folder",
+        "path": "/accendoFolder",
+        "children": [
+            {
+                "id": "s67acgd232c",
+                "name": "Administración de Servicio",
+                "type": "folder",
+                "path": "/accendo-admin-service",
+                "children": [
+                    {
+                        "id": "s6a2we7acgdc",
+                        "name": "Servicios",
+                        "type": "folder",
+                        "path": "/service",
+                        "children": [
+                            {
+                                "id": "s67acgdc232323",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/service-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "s67acgdc",
+                        "name": "Documento de Administración",
+                        "type": "file",
+                        "path": "/admin-document.pdf",
+                        "children": false
+                    }
+                ]
+            },
+            {
+                "id": "sSAA67acgdfrf3c",
+                "name": "Administración de Documentos",
+                "type": "folder",
+                "path": "/admin-document",
+                "children": [
+                    {
+                        "id": "s67acgdcAS",
+                        "name": "Documento de Documentos",
+                        "type": "file",
+                        "path": "/document-documents.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s6ASASAAS7acgdc",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "sSASA67acgdc",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/service-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "s67acXASXAgdc",
+                "name": "Administración de Accendo",
+                "type": "folder",
+                "path": "/admin-accendo",
+                "children": [
+                    {
+                        "id": "s67azaZAacgdc",
+                        "name": "Documento de Accendo",
+                        "type": "file",
+                        "path": "/accendo-document.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s67ac7g77g7ygdc",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/admin-accendo-documents",
+                        "children": [
+                            {
+                                "id": "ASSAs67acgdc",
+                                "name": "Documento de Accendo",
+                                "type": "file",
+                                "path": "/document-accendo.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "kjaxnjcd98hh90",
+        "name": "Bafamsa",
+        "type": "folder",
+        "path": "/bafamsaFolder",
+        "children": [
+            {
+                "id": "s67aco00oo0o0gdc",
+                "name": "Administración de Servicio",
+                "type": "folder",
+                "path": "/bafamsa-admin-service",
+                "children": [
+                    {
+                        "id": "s67acok0990gdc",
+                        "name": "Servicios",
+                        "type": "folder",
+                        "path": "/service",
+                        "children": [
+                            {
+                                "id": "s67acgw7gwxdc",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/service-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "s67as8cdacgdc",
+                        "name": "Documento de Administración",
+                        "type": "file",
+                        "path": "/admin-document.pdf",
+                        "children": false
+                    }
+                ]
+            },
+            {
+                "id": "s67ax7wgydcgdc",
+                "name": "Administración de Documentos",
+                "type": "folder",
+                "path": "/admin-document",
+                "children": [
+                    {
+                        "id": "s67a7867cgdc",
+                        "name": "Documento de Documentos",
+                        "type": "file",
+                        "path": "/document-documents.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s67a289edgwscgdc",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "s67acg389dghigudc",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/service-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "s67acxczmdigdc",
+                "name": "Administración de Bafamsa",
+                "type": "folder",
+                "path": "/admin-bafamsa",
+                "children": [
+                    {
+                        "id": "s67a3288dcgdc",
+                        "name": "Documento de Bafamsa",
+                        "type": "file",
+                        "path": "/document-bafamsa.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s32667acgdc",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/admin-bafamsa-documents",
+                        "children": [
+                            {
+                                "id": "s67acgasadc",
+                                "name": "Documento de Bafamsa",
+                                "type": "file",
+                                "path": "/document-bafamsa.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "kjaxnj78f6fycd9891",
+        "name": "Coppel",
+        "type": "folder",
+        "path": "/coppelFolder",
+        "children": [
+            {
+                "id": "s67act67f67vygdc",
+                "name": "Administración de Servicio",
+                "type": "folder",
+                "path": "/coppel-admin-service",
+                "children": [
+                    {
+                        "id": "s67xsxaacgdc",
+                        "name": "Servicios",
+                        "type": "folder",
+                        "path": "/service",
+                        "children": [
+                            {
+                                "id": "s67acgd324r2edc",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/service-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "s67acgd3432deewc",
+                        "name": "Documento de Administración",
+                        "type": "file",
+                        "path": "/admin-document.pdf",
+                        "children": false
+                    }
+                ]
+            },
+            {
+                "id": "s67acg43rf43fdc",
+                "name": "Administración de Documentos",
+                "type": "folder",
+                "path": "/admin-coppel-documents",
+                "children": [
+                    {
+                        "id": "s67acqedqedgdc",
+                        "name": "Documento de Documentos",
+                        "type": "file",
+                        "path": "/document-documents.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s67acgsxxqed23dc",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "s67acgdsxaddc",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/document-service.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "s67acgdcsax<67",
+                "name": "Administración de Coppel",
+                "type": "folder",
+                "path": "/admin-coppel",
+                "children": [
+                    {
+                        "id": "s67acgdsxnkiqsnxuquic",
+                        "name": "Documento de Coppel",
+                        "type": "file",
+                        "path": "/document-coppel.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s67acgdczusxbiasb",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "s67acgdckookko",
+                                "name": "Documento de Coppel",
+                                "type": "file",
+                                "path": "/document-coppel.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "k88jaxnjcd9892",
+        "name": "Azteca",
+        "type": "folder",
+        "path": "/aztecaFolder",
+        "children": [
+            {
+                "id": "s67acgd232c000",
+                "name": "Administración de Servicio",
+                "type": "folder",
+                "path": "/admin-azteca-service",
+                "children": [
+                    {
+                        "id": "s6a2we7ac99gdc",
+                        "name": "Servicios",
+                        "type": "folder",
+                        "path": "/service",
+                        "children": [
+                            {
+                                "id": "s67acgdc2323",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/service-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "s67acgdAAc",
+                        "name": "Documento de Administración",
+                        "type": "file",
+                        "path": "/admin-document.pdf",
+                        "children": false
+                    }
+                ]
+            },
+            {
+                "id": "sSAA67acgdfrc",
+                "name": "Administración de Documentos",
+                "type": "folder",
+                "path": "/admin-azteca-documents",
+                "children": [
+                    {
+                        "id": "s67acgAS",
+                        "name": "Documento de Documentos",
+                        "type": "file",
+                        "path": "/document-documents.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s6ASASAAS7gdc",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "sSASA67gdc",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/document-service.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "s67acXXAgdcAA",
+                "name": "Administración de Azteca",
+                "type": "folder",
+                "path": "/admin-azteca",
+                "children": [
+                    {
+                        "id": "s67azaZcgdcAA",
+                        "name": "Documento de Azteca",
+                        "type": "file",
+                        "path": "/document-azteca.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s67ac777g7ygdcAA",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "ASSs67acgdcAA",
+                                "name": "Documento de Azteca",
+                                "type": "file",
+                                "path": "/azteca-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "kjaxnjcd9893",
+        "name": "HSBC",
+        "type": "folder",
+        "path": "/hsbcFolder",
+        "children": [
+            {
+                "id": "s67ac3E32gd232c",
+                "name": "Administración de Servicio",
+                "type": "folder",
+                "path": "/admin-hsbc-service",
+                "children": [
+                    {
+                        "id": "AAAAAA6a2we7acgdc",
+                        "name": "Servicios",
+                        "type": "folder",
+                        "path": "/service",
+                        "children": [
+                            {
+                                "id": "s67acgdc232EDEDED323",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/document-service.pdf",
+                                "children": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "s67acgdcDEDE",
+                        "name": "Documento de Administración",
+                        "type": "file",
+                        "path": "/admin-document.pdf",
+                        "children": false
+                    }
+                ]
+            },
+            {
+                "id": "sSAA67f3c",
+                "name": "Administración de Documentos",
+                "type": "folder",
+                "path": "/admin-document",
+                "children": [
+                    {
+                        "id": "s67acgdcAS4334",
+                        "name": "Documento de Documentos",
+                        "type": "file",
+                        "path": "/document-documents.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s6A44SAAS7acgdc",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "sSASA67acgdcAAA",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/service-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "s6cXASXAgdc",
+                "name": "Administración de HSBC",
+                "type": "folder",
+                "path": "/admin-hsbc",
+                "children": [
+                    {
+                        "id": "s67aZAacgdc",
+                        "name": "Documento de HSBC",
+                        "type": "file",
+                        "path": "/document-hsbc.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s67ag77g7ygdc",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/admin-hsbc",
+                        "children": [
+                            {
+                                "id": "AAs67acgdc",
+                                "name": "Documento de HSBC",
+                                "type": "file",
+                                "path": "/document-hsbc.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "kjaxnjcd9894",
+        "name": "BBVA Bancomer",
+        "type": "folder",
+        "path": "/bbvaFolder",
+        "children": [
+            {
+                "id": "1111111s67acgd232c",
+                "name": "Administración de Servicio",
+                "type": "folder",
+                "path": "/admin-bbva-service",
+                "children": [
+                    {
+                        "id": "11111s6a2we7acgdc",
+                        "name": "Servicios",
+                        "type": "folder",
+                        "path": "/service",
+                        "children": [
+                            {
+                                "id": "111111s67acgdc232323",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/service-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "s67acgdc1111111",
+                        "name": "Documento de Administración",
+                        "type": "file",
+                        "path": "/document-service.pdf",
+                        "children": false
+                    }
+                ]
+            },
+            {
+                "id": "sSAA67acgdfrf3c222222",
+                "name": "Administración de Documentos",
+                "type": "folder",
+                "path": "/admin-document",
+                "children": [
+                    {
+                        "id": "s67acgdcAS2222222222",
+                        "name": "Documento de Documentos",
+                        "type": "file",
+                        "path": "/document-documents.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s6ASASAAS7acgdc222222222",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "sSASA67acgdc222222222",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/service-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "s67acXASXAgdc333333333",
+                "name": "Administración de BBVA Bancomer",
+                "type": "folder",
+                "path": "/admin-bbva",
+                "children": [
+                    {
+                        "id": "s67azaZAacgdc333333333",
+                        "name": "Documento de BBVA Bancomer",
+                        "type": "file",
+                        "path": "/bbva-document.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s67ac7g77g7ygdc333333333",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "ASSAs67acgdc33333333",
+                                "name": "Documento de BBVA Bancomer",
+                                "type": "file",
+                                "path": "/document-bbva.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "kjaxnjcd9895",
+        "name": "Santander",
+        "type": "folder",
+        "path": "/santanderFolder",
+        "children": [
+            {
+                "id": "s67acgd232cñññññññ",
+                "name": "Administración de Servicio",
+                "type": "folder",
+                "path": "/admin-santander-service",
+                "children": [
+                    {
+                        "id": "s6a2we7acgdcñññññññññññ",
+                        "name": "Servicios",
+                        "type": "folder",
+                        "path": "/service",
+                        "children": [
+                            {
+                                "id": "s67acgdc232323ññññññññ",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/service-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "s67acgdcññññññññññññ",
+                        "name": "Documento de Administración",
+                        "type": "file",
+                        "path": "/admin-document.pdf",
+                        "children": false
+                    }
+                ]
+            },
+            {
+                "id": "sSAA61111111111113c",
+                "name": "Administración de Documentos",
+                "type": "folder",
+                "path": "/admin-document",
+                "children": [
+                    {
+                        "id": "s6",
+                        "name": "Documento de Documentos",
+                        "type": "file",
+                        "path": "/document-documents.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "sacgdc",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "s",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/service-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "s67acgdc",
+                "name": "Administración de Santander",
+                "type": "folder",
+                "path": "/admin-santander",
+                "children": [
+                    {
+                        "id": "s6cgdc",
+                        "name": "Documento de Santander",
+                        "type": "file",
+                        "path": "/document-santander.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s67c",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "ASSA",
+                                "name": "Documento de Santander",
+                                "type": "file",
+                                "path": "/document-santander.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "kjaxnjcd9896",
+        "name": "Nu Bank",
+        "type": "folder",
+        "path": "/nuFolder",
+        "children": [
+            {
+                "id": "s67acgd232cqqqqqqqqqqq",
+                "name": "Administración de Servicio",
+                "type": "folder",
+                "path": "/admin-nu-service",
+                "children": [
+                    {
+                        "id": "s6a2we7acgdcqqqqqqqqqqqqqq",
+                        "name": "Servicios",
+                        "type": "folder",
+                        "path": "/service",
+                        "children": [
+                            {
+                                "id": "s67acgdc232323qqqqqqqqq",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/service-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "s67acgdcqqqqqqqqq",
+                        "name": "Documento de Administración",
+                        "type": "file",
+                        "path": "/document-service.pdf",
+                        "children": false
+                    }
+                ]
+            },
+            {
+                "id": "sSAA67acgdfrf3cqqqqqqqqqqq",
+                "name": "Administración de Documentos",
+                "type": "folder",
+                "path": "/admin-document",
+                "children": [
+                    {
+                        "id": "s67acgdcASqqqqqqqqqq",
+                        "name": "Documento de Documentos",
+                        "type": "file",
+                        "path": "/document-documents.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s6ASASAAS7acgdcqqqqqqqqq",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "sSASA67acgdcqqqqqqq",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/service-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "s67acXASXAgdcqqqqqqqqqqqq",
+                "name": "Administración de Nu Bank",
+                "type": "folder",
+                "path": "/admin-nu",
+                "children": [
+                    {
+                        "id": "s67azaZAacgdcqqqqqqqqqqqq",
+                        "name": "Documento de Nu Bank",
+                        "type": "file",
+                        "path": "/nu-document.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s67ac7g77g7ygdcqqqqqqqqq",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "ASSAs67acgdcqqqqqqqqqqqq",
+                                "name": "Documento de Nu Bank",
+                                "type": "file",
+                                "path": "/nu-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "kjaxnjcd9897",
+        "name": "Banamex",
+        "type": "folder",
+        "path": "/banamexFolder",
+        "children": [
+            {
+                "id": "s67acgd232caaaaaaas",
+                "name": "Administración de Servicio",
+                "type": "folder",
+                "path": "/admin-banamex-service",
+                "children": [
+                    {
+                        "id": "s6a2we7acgdcaaaaaaaaaas",
+                        "name": "Servicios",
+                        "type": "folder",
+                        "path": "/service",
+                        "children": [
+                            {
+                                "id": "s67acgdc232323aaaaaaaaaaas",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/service-document.pdf",
+                                "children": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": "s67acgdcaaaaaaaaaaaaaas",
+                        "name": "Documento de Administración",
+                        "type": "file",
+                        "path": "/admin-document.pdf",
+                        "children": false
+                    }
+                ]
+            },
+            {
+                "id": "sSAA67acgdfrf3caaaaaaaaaaaaas",
+                "name": "Administración de Documentos",
+                "type": "folder",
+                "path": "/admin-document",
+                "children": [
+                    {
+                        "id": "s67acgdcASaaaaaaaaaaaas",
+                        "name": "Documento de Documentos",
+                        "type": "file",
+                        "path": "/document-documents.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s6ASASAAS7acgdcaaaaaaaaaaaaas",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "sSASA67acgdcaaaaaaaaaaas",
+                                "name": "Documento de Servicio",
+                                "type": "file",
+                                "path": "/document-service.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "s67acXASXAgdcaaaaaaaaaaaas",
+                "name": "Administración de Banamex",
+                "type": "folder",
+                "path": "/admin-banamex",
+                "children": [
+                    {
+                        "id": "s67azaZAacgdcaaaaaaaaas",
+                        "name": "Documento de Banamex",
+                        "type": "file",
+                        "path": "/document-banamex.pdf",
+                        "children": false
+                    },
+                    {
+                        "id": "s67ac7g77g7ygdcaaaaaaaaaaaaas",
+                        "name": "Documentos",
+                        "type": "folder",
+                        "path": "/documents",
+                        "children": [
+                            {
+                                "id": "ASSAs67acgdcaaaaaaaaaaas",
+                                "name": "Documento de Banamex",
+                                "type": "file",
+                                "path": "/document-banamex.pdf",
+                                "children": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "kjaxnjcd9898",
+        "name": "Banco de México",
+        "type": "folder",
+        "path": "/Banco de Mexico",
+        "children": [{
+            "id": "mklaxidco2",
+            "name": "Imagen del Banco de México",
+            "type": "Image",
+            "path": "/image.jpg",
+            "children": false
+        }]
+    }
+]

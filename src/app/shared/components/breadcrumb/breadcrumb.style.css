@@ -8,6 +8,10 @@
 .breadcrumbList-item {
     flex: 0 0 auto;
 }
+
+.breadcrumbList-item:last-child {
+    pointer-events: none;
+}
   
 .breadcrumbList-item + .breadcrumbList-item::before {
     content: "/";
@@ -16,11 +20,13 @@
     color: #ffffff;
 }
   
-.breadcrumbList a {
+.breadcrumbList p {
+    display: inline;
+    margin: 0;
     color: rgb(233, 233, 233);
     font-weight: 700;
 }
   
-.breadcrumbList a:hover {
+.breadcrumbList p:hover {
     color: rgb(255, 255, 255);
 }

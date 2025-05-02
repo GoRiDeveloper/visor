@@ -1,11 +1,11 @@
 <nav aria-label="breadcrumbList" class="m-auto w-10">
   <div class="breadcrumbList flex w-full overflow-hidden overflow-x-scroll align-items-center p-3">
-    <div class="breadcrumbList-item">
-      <a class="bi bi-house-fill fs-4"></a>
+    <div class="breadcrumbList-item" (click)="redirectHome()">
+      <span class="pi pi-home text-base" style="color: #fff;"></span>
     </div>
-    @for (item of routesData; track item.id) {
-      <div class="breadcrumbList-item">
-        <a>{{item.name}}</a>
+    @for (item of routes; track item.id) {
+      <div class="breadcrumbList-item" (click)="redirectPath(item.id)">
+        <p>{{item.name}}</p>
       </div>
     }
   </div>

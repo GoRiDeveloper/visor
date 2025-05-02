@@ -2,5 +2,9 @@
 
 /* You can add global styles to this file, and also import other style files */
 body {
-    background-color:slateblue;
+    background-color:#0c2340;
+}
+
+.border-background {
+    background: border-box;
 }
